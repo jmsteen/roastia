@@ -100,4 +100,8 @@ Link: [Roastia](https://roastia.herokuapp.com)
     <img alt="Search" src="https://roastia.s3.us-east-2.amazonaws.com/roastia-search.png" width="600">
   </p>
 
-  Thanks for checking out Roastia!
+  Thanks for checking out Roastia! Learn more about the developers:  
+
+  [Bee Ellis](https://www.linkedin.com/in/bee-ellis-2b126b185/)  
+  [Long McFarlin](https://www.linkedin.com/in/long-mcfarlin-7bb60994/)  
+  [John Steen](https://www.linkedin.com/in/johnmsteen/)  
