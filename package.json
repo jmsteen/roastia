@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node app.js",
+    "start": "node ./server/server.js",
     "server": "nodemon ./bin/www --ignore client",
     "server:production": "node ./bin/www",
     "server:debug": "nodemon --ignore client --inspect ./bin/www",
